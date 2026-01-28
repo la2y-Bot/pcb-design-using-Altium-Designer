@@ -1,4 +1,4 @@
-# pcb-design-using-Altium-Designer
+# pcb-designing
 
 PCB project includes schematic design, layout, and fabrication-ready Gerber files.
 
